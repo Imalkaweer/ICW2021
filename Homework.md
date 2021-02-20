@@ -462,20 +462,5 @@ privacy policy or EULA does not meet the definition of spyware!_
 
 ---
 
-# Exercise 3.7 (:handshake::pencil::house:)
 
-1. Choose a partner for this exercise
-2. Log in to GitHub and fork
-   <small><https://github.com/bkimminich/it-security-lecture></small>
-3. Pick any malware from computer history
-   * <small>It must not have a profile in
-     [`/malware-profiles`](../malware-profiles) already!</small>
-   * <small>Align across your own class that no duplicates are
-     created!</small>
-4. Create a profile of that malware based on
-   [`YYYY_NameOfMalware.md`](../malware-profiles/YYYY_NameOfMalware.md)
-5. Submit a Pull Request to the lecture repository
-
-<small>_:information_source: You can find an example profile in
-[1999_Melissa.md](../malware-profiles/1999_Melissa.md)!_</small>
 
