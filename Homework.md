@@ -212,15 +212,15 @@ On a Windows 10 Home machine with only Windows Defender enabled but no
 
 ---
 
-![Windows Defender Alert](images/01-03-malware/win_defender-reaction-js_virus-01.png)
+![Windows Defender Alert](win_defender-reaction-js_virus-01.png)
 
 ---
 
-![Windows Defender Alert Details](images/01-03-malware/win_defender-reaction-js_virus-02.png)
+![Windows Defender Alert Details](win_defender-reaction-js_virus-02.png)
 
 ---
 
-![Trojan:JS/Redirector in Microsoft Encyclopedia](images/01-03-malware/win_defender-reaction-js_virus-03.png)
+![Trojan:JS/Redirector in Microsoft Encyclopedia](win_defender-reaction-js_virus-03.png)
 
 ---
 
@@ -256,7 +256,7 @@ On a Windows 10 Home machine with only Windows Defender enabled but no
 
 # Non-expert vs. expert safety practices
 
-[![Comparing how security experts and non-experts stay safe online](images/01-03-malware/Beutler_Google_Security-practices-v6.png)](https://security.googleblog.com/2015/07/new-research-comparing-how-security.html)
+[![Comparing how security experts and non-experts stay safe online](Beutler_Google_Security-practices-v6.png)](https://security.googleblog.com/2015/07/new-research-comparing-how-security.html)
 
 <!-- _footer: New research: Comparing how security experts and non-experts stay safe online, 2015 Ion/Reeder/Consolvo, Google Security Blog -->
 
@@ -361,7 +361,7 @@ privacy policy or EULA does not meet the definition of spyware!_
 <!-- _footer: How a botnet works, 2010 Tom-b, used under CC-BY-SA 3.0 -->
 # How a Botnet works
 
-![How a botnet works, 2010 Tom-b, used under CC-BY-SA 3.0](images/01-03-malware/570px-Botnet.svg.png)
+![How a botnet works, 2010 Tom-b, used under CC-BY-SA 3.0](570px-Botnet.svg.png)
 
 ---
 
